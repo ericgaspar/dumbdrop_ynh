@@ -1,5 +1,5 @@
 [Unit]
-Description=DumbDo: todo list
+Description=DumbDrop: file dropper
 After=network.target
 
 [Service]
