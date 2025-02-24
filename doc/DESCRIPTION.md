@@ -1,12 +1,16 @@
-A stupidly simple todo list application that just works. No complex database, no unnecessary features - just todos.
+A stupid simple file upload application that provides a clean, modern interface for dragging and dropping files. Built with Node.js and vanilla JavaScript.
 
 ### Features
 
-    ✨ Clean, minimal interface
-    🌓 Dark/Light mode with system preference detection
-    💾 File-based storage - todos persist between sessions
-    📱 Fully responsive design
-    🚀 Fast and lightweight
-    🔒 PIN protection (4-10 digits if enabled)
-
-
+    🚀 Drag and drop file uploads
+    📁 Multiple file selection
+    🎨 Clean, responsive UI with Dark Mode
+    📦 Docker support with easy configuration
+    📂 Directory upload support (maintains structure)
+    🔒 Optional PIN protection
+    📱 Mobile-friendly interface
+    🔔 Configurable notifications via Apprise
+    ⚡ Zero dependencies on client-side
+    🛡️ Built-in security features
+    💾 Configurable file size limits
+    🎯 File extension filtering
