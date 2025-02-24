@@ -49,7 +49,7 @@ ram.runtime = "50M"
     url = "https://github.com/DumbWareio/DumbDrop/archive/c6a969b5cd28ec0cad85353e440353d36eaf4433.tar.gz"
     sha256 = "b54bd77b522ff9a34afe095eb5804767ba56c01c1c859d5b7912fac448b077f5"
 
-    autoupdate.strategy = "latest_commit_tag"
+    autoupdate.strategy = "latest_github_commit"
 
     [resources.system_user]
 
